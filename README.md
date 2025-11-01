@@ -59,4 +59,4 @@ The project compares **non-partitioned** vs **partitioned (file-skipping)** Delt
 
 ## ✍️ Author
 **Sayeeda Begam Mohamed Ikbal**  
-📅 _UTN Semester 3 – Cloud Data Project_  
+📅 _UTN Semester 3 – Cloud Database Assignment_  
